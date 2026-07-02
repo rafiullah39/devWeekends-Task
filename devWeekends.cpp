@@ -7,7 +7,9 @@ int main()
 
       cout<<" Hello Once Again! Learning Branching ,Broooo Now Changing From main"<<endl;
 
+      
       cout<<" Hello Once Again! Learning Branching , But Now Im changing this Line to Caue a Conflict Broooooo! hehe"<<endl;
-
+      cout<<" ------------------------------"<<endl;
+      cout << "Feature 3: conflict resolved successfully!";
       return 0;
 }
